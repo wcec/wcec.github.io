@@ -1,0 +1,49 @@
+
+h1 {
+	font-size: 175%; 
+}
+
+h2 {
+	font-size: 150%;
+}
+
+body {
+	font-size: 125%;
+}
+
+div {
+	padding: 20px; 
+}
+
+div.segment {
+	padding-top: 1em;
+	padding-left: 1em;
+	padding-right: 1em; 
+	padding-bottom: 1em;
+}
+
+div.body {
+	padding-top: 3em;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-bottom: 3em;
+}
+
+div.center {
+	text-align: center; 
+}
+
+div.left {
+	float: left; 
+	padding-left: 5%; 
+}
+
+div.right {
+	float: right;
+	padding-right: 5%;
+}
+
+a.header {
+	font-size: 150%;
+	text-decoration: none;
+}
